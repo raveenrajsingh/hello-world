@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleafdemo-employees-crud-security-with-in-me
+ mory-authentication
+Implementation-Version: 1.0.0
+Built-By: rak_2
+Implementation-Vendor-Id: com.luv2code.springboot
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://spring.io/projects/spring-boot/thymeleafde
+ mo-employees-crud-security-with-in-memory-authentication
+Created-By: Maven Integration for Eclipse
+
